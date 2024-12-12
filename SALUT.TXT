@@ -1,0 +1,3 @@
+Pour les brances : "branch/<nom-de-l'élève>"
+Pour les commits : "feat/<nom-de-l'élève>: <description de la modification>"
+Pour les merges : "merge/<nom-de-l'élève>: merge de <brache source> vers <branche destination>"
